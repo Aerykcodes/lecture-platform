@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Env files
+.env
+backend/.env
+client/.env
+
+# Build
+dist/
+build/
+
+# Mac junk
+.DS_Store
+
+ai-meeting-assistant/temp/
+*.mov
+*.mp3
